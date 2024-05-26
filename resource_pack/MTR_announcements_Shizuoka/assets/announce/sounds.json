@@ -30,5 +30,34 @@
     "akari-shizuoka-kudari": {
     "sounds": [
       {"name":"announce:akari-shizuoka-kudari"}]
-              }
+              },
+   "akari02-shinsaikyo-kudari": {
+    "sounds": [
+      {"name":"announce:akari02-shinsaikyo-kudari"}]
+              },
+    "akari02-shizuoka-kudari": {
+    "sounds": [
+      {"name":"announce:akari02-shizuoka-kudari"}]
+              },
+    "akari02-saba-kudari": {
+      "sounds": [
+        {"name":"announce:akari02-saba-kudari"}]
+                },
+      "akari02-hime-nobori": {
+      "sounds": [
+        {"name":"announce:akari02-hime-nobori"}]
+                },
+      "akari-saba-tsuru-nobori": {
+        "sounds": [
+          {"name":"announce:akari-saba-tsuru-nobori"}]
+                  },
+        "kizunaakari-shizuoka-nobori": {
+        "sounds": [
+          {"name":"kizunaakari-shizuoka-nobori"}]
+                  },
+        "shuten-hime": {
+          "sounds": [
+            {"name":"shuten-hime"}]
+                    }
+
 }
