@@ -1,0 +1,34 @@
+{
+  "mind_the_gap": {
+    "sounds": [
+      "announce:mtg"]
+              },
+    "british_safety": {
+    "sounds": [
+      "announce:btp"]
+              },
+   "shuten-tsurushi": {
+    "sounds": [
+      {"name":"announce:shu-tsurushi"}]
+              },
+    "shuten-shinsaikyo": {
+    "sounds": [
+      {"name":"announce:shu-shinsaikyo"}]
+              },
+   "kizuna_shin-saikyo-kudari": {
+    "sounds": [
+      {"name":"announce:kizuna-shinsaikyo-kudari"}]
+              },
+    "kizuna-shizuoka-kudari": {
+    "sounds": [
+      {"name":"announce:kizuna-shizuoka-kudari"}]
+              },
+   "akari_shin-saikyo-kudari": {
+    "sounds": [
+      {"name":"announce:akari-shinsaikyo-kudari"}]
+              },
+    "akari-shizuoka-kudari": {
+    "sounds": [
+      {"name":"announce:akari-shizuoka-kudari"}]
+              }
+}
