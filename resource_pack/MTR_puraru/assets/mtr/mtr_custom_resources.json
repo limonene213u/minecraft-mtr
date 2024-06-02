@@ -36,6 +36,18 @@
 			"base_train_type": "class_802_gwr",
 			"texture_id": "mtr:srt_gec/class_802_puraru.png"
 		},
+"class802_akari": {
+			"name": "Class 802 AKARI livery",
+			"color": "222b64",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:srt_gec/class_802_akari.png"
+		},
+"class802_kizuna": {
+			"name": "Class 802 KIZUNA livery",
+			"color": "222b64",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:srt_gec/class_802_kizuna.png"
+		},
 "br423_gtxa": {
 			"name": "br423 GTX livery",
 			"color": "5e8aa1",
