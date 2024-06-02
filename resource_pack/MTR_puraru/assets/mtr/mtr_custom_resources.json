@@ -1,0 +1,238 @@
+{
+	"custom_trains": {
+		"k_train_GEC3000": {
+			"name": "k train GEC3000 livery",
+			"color": "EF7C1C",
+			"base_train_type": "k_train_small",
+			"texture_id": "mtr:srt_gec/k_gec3000.png"
+		},
+"k_train_GEC2000": {
+			"name": "k train GEC2000 livery",
+			"color": "00A84D",
+			"base_train_type": "k_train_small",
+			"texture_id": "mtr:srt_gec/k_gec2000.png"
+		},
+"k_train_seoulmetro5": {
+			"name": "k train seoulmetro5 livery",
+			"color": "996CAC",
+			"base_train_type": "k_train_small",
+			"texture_id": "mtr:srt_gec/k_seoulmetro5.png"
+		},
+"k_train_seoulmetro9": {
+			"name": "k train seoulmetro9 livery",
+			"color": "BDB092",
+			"base_train_type": "k_train_small",
+			"texture_id": "mtr:srt_gec/k_seoulmetro9.png"
+		},
+"class802_ktxeum": {
+			"name": "Class 802 KTXEUM livery",
+			"color": "222b64",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:srt_gec/class_802_gwr_eum.png"
+		},
+"class802_puraru": {
+			"name": "Class 802 puraru livery",
+			"color": "222b64",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:srt_gec/class_802_puraru.png"
+		},
+"br423_gtxa": {
+			"name": "br423 GTX livery",
+			"color": "5e8aa1",
+			"base_train_type": "br_423",
+			"texture_id": "mtr:srt_gec/br_423_gtxa.png"
+		},
+"class802_nsintercity": {
+			"name": "Class 802 ns intercity livery",
+			"color": "0a14ad",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:srt_tem/class_802_gwr_nsintercity.png"
+		},
+"br423_nssprinter": {
+			"name": "br423 nssprinter livery",
+			"color": "0a14ad",
+			"base_train_type": "br_423",
+			"texture_id": "mtr:srt_tem/br_423_nssprinter.png"
+		},
+"m_train_amsterdam_m5": {
+			"name": "m train amsterdam m5 livery",
+			"color": "e92300",
+			"base_train_type": "m_train_small",
+			"texture_id": "mtr:srt_tem/m_amsm5.png"
+		},
+"dslrv3_amsterdam_s1":{
+			"name":"Dual Side LRV (Phase 3, amsterdam s1 livery)",
+			"description":"A version of the Phase 3 LRV with Doors on Both Sides. Original, Modified Model by Jonathan Ho, Europa and Äçħ",
+			"color":"2d82e5",
+			"door_animation_type":"STANDARD",
+			"has_gangway_connection": false,
+			"render_door_overlay":false,
+			"base_train_type": "light_rail_3",
+			"rider_offset":0.0,
+			"texture_id":"mtr:srt_tem/dslrv3amsterdams1.png",
+			"model":"mtr:srt_tem/dslrvs1.bbmodel",
+			"model_properties":"mtr:srt_tem/dslrv3s1.json",
+			"speed_sound_count": 45,
+			"door_sound_base_id": "light_rail_3",
+			"speed_sound_base_id": "light_rail_mitsubishi"
+		},
+"dslrv3_amsterdam_s1_red":{
+			"name":"Dual Side LRV (Phase 3, amsterdam s1 red livery)",
+			"description":"A version of the Phase 3 LRV with Doors on Both Sides. Original, Modified Model by Jonathan Ho, Europa and Äçħ",
+			"color":"e92300",
+			"door_animation_type":"STANDARD",
+			"has_gangway_connection": false,
+			"render_door_overlay":false,
+			"base_train_type": "light_rail_3",
+			"rider_offset":0.0,
+			"texture_id":"mtr:srt_tem/dslrv3amsterdams1_red.png",
+			"model":"mtr:srt_tem/dslrvs1.bbmodel",
+			"model_properties":"mtr:srt_tem/dslrv3s1.json",
+			"speed_sound_count": 45,
+			"door_sound_base_id": "light_rail_3",
+			"speed_sound_base_id": "light_rail_mitsubishi"
+		},
+"class_377_auckland_suburban": {
+			"name": "class 377 auckland suburban livery",
+			"color": "324d83",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:srt_alm/class_377_sa.png"
+		},
+"a_train_atmetro": {
+			"name": "a train AT Metro livery",
+			"color": "324d83",
+			"base_train_type": "a_train_ael",
+			"texture_id": "mtr:srt_alm/a_atmetro.png"
+		},
+"class_377_auckland_regional": {
+			"name": "class 377 auckland regional livery",
+			"color": "484848",
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:srt_alm/class_377_sr.png"
+		},
+"m_train_perth_a": {
+			"name": "m train transperth livery",
+			"color": "007a4b",
+			"base_train_type": "m_train_small",
+			"texture_id": "mtr:srt_ngr/m_perth_a.png"
+		},
+"m_train_perth_a_long": {
+			"name": "m train transperth livery long",
+			"color": "007a4b",
+			"base_train_type": "m_train",
+			"texture_id": "mtr:srt_ngr/m_perth_a.png"
+		},
+"class802_ett": {
+			"name": "Class 802 Electric Tilt livery",
+			"color": "B42249",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:srt_ngr/class_802_gwr_ett.png"
+		},
+"m_train_IMU120": {
+			"name": "m train IMU120 livery",
+			"color": "B42249",
+			"base_train_type": "m_train_small",
+			"texture_id": "mtr:srt_ngr/m_imu120.png"
+		},
+"m_train_IMU120_long": {
+			"name": "m train IMU120 livery long",
+			"color": "B42249",
+			"base_train_type": "m_train",
+			"texture_id": "mtr:srt_ngr/m_imu120.png"
+		},
+"a_train_NGR": {
+			"name": "a train NGR livery",
+			"color": "B42249",
+			"base_train_type": "a_train_ael",
+			"texture_id": "mtr:srt_ngr/a_qrngr.png"
+		}
+	},
+	"custom_signs": {
+		"srt_rollingstock": {
+			"texture_id": "mtr:srt_gec/srt_rollingstock.png",
+			"flip_texture": false,
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "000000"
+		},
+"srt_rnet": {
+			"texture_id": "mtr:srt_tem/srt_rnet.png",
+			"flip_texture": false,
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "243c7d"
+		},
+"srt_amsmetro": {
+			"texture_id": "mtr:srt_tem/srt_amsmetro.png",
+			"flip_texture": false,
+                  "custom_text": "Metro",
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "243c7d"
+		},
+"srt_amstrain": {
+			"texture_id": "mtr:srt_tem/srt_amstrain.png",
+			"flip_texture": false,
+                  "custom_text": "Trein",
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "243c7d"
+		},
+"srt_tpairportex": {
+			"texture_id": "mtr:srt_gec/srt_tpairportex.png",
+			"flip_texture": false,
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "000000"
+		},
+"srt_tphsr": {
+			"texture_id": "mtr:srt_gec/srt_tphsr.png",
+			"flip_texture": false,
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "000000"
+		},
+"srt_tpmetro": {
+			"texture_id": "mtr:srt_gec/srt_tpmetro.png",
+			"flip_texture": false,
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "000000"
+		},
+"srt_tptrain": {
+			"texture_id": "mtr:srt_gec/srt_tptrain.png",
+			"flip_texture": false,
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "000000"
+		},
+"srt_khsr": {
+			"texture_id": "mtr:srt_gec/srt_khsr.png",
+			"flip_texture": false,
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "222b64"
+		},
+"srt_ktrain": {
+			"texture_id": "mtr:srt_gec/srt_ktrain.png",
+			"flip_texture": false,
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "222b64"
+		},
+"srt_kmetro": {
+			"texture_id": "mtr:srt_gec/srt_kmetro.png",
+			"flip_texture": false,
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "222b64"
+		},
+"srt_kwaiting": {
+			"texture_id": "mtr:srt_gec/srt_kwaiting.png",
+			"flip_texture": false,
+			"flip_custom_text": false,
+			"small": false,
+			"background_color": "222b64"
+		}
+	}
+}
