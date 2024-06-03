@@ -1,0 +1,63 @@
+{
+  "mind_the_gap": {
+    "sounds": [
+      "announce:mtg"]
+              },
+    "british_safety": {
+    "sounds": [
+      "announce:btp"]
+              },
+   "shuten-tsurushi": {
+    "sounds": [
+      {"name":"announce:shu-tsurushi"}]
+              },
+    "shuten-shinsaikyo": {
+    "sounds": [
+      {"name":"announce:shu-shinsaikyo"}]
+              },
+   "kizuna_shin-saikyo-kudari": {
+    "sounds": [
+      {"name":"announce:kizuna-shinsaikyo-kudari"}]
+              },
+    "kizuna-shizuoka-kudari": {
+    "sounds": [
+      {"name":"announce:kizuna-shizuoka-kudari"}]
+              },
+   "akari_shin-saikyo-kudari": {
+    "sounds": [
+      {"name":"announce:akari-shinsaikyo-kudari"}]
+              },
+    "akari-shizuoka-kudari": {
+    "sounds": [
+      {"name":"announce:akari-shizuoka-kudari"}]
+              },
+   "akari02-shinsaikyo-kudari": {
+    "sounds": [
+      {"name":"announce:akari02-shinsaikyo-kudari"}]
+              },
+    "akari02-shizuoka-kudari": {
+    "sounds": [
+      {"name":"announce:akari02-shizuoka-kudari"}]
+              },
+    "akari02-saba-kudari": {
+      "sounds": [
+        {"name":"announce:akari02-saba-kudari"}]
+                },
+      "akari02-hime-nobori": {
+      "sounds": [
+        {"name":"announce:akari02-hime-nobori"}]
+                },
+      "akari-saba-tsuru-nobori": {
+        "sounds": [
+          {"name":"announce:akari-saba-tsuru-nobori"}]
+                  },
+        "kizunaakari-shizuoka-nobori": {
+        "sounds": [
+          {"name":"kizunaakari-shizuoka-nobori"}]
+                  },
+        "shuten-hime": {
+          "sounds": [
+            {"name":"shuten-hime"}]
+                    }
+
+}
