@@ -60,6 +60,12 @@
 			"base_train_type": "br_423",
 			"texture_id": "mtr:srt_gec/br_423_gtxa.png"
 		},
+"br423_tsuru": {
+			"name": "TSURU EXP",
+			"color": "5e8aa1",
+			"base_train_type": "br_423",
+			"texture_id": "mtr:srt_gec/br_423_tsuru.png"
+		},
 "class802_nsintercity": {
 			"name": "Class 802 ns intercity livery",
 			"color": "0a14ad",
