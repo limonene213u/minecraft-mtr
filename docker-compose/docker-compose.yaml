@@ -1,0 +1,21 @@
+services:
+  minecraft-server:
+    container_name: minecraft-fabric-server-mtr-1.19.2
+    image: itzg/minecraft-server
+    environment:
+      TYPE: "FABRIC"
+      VERSION: "1.19.2"
+      EULA: "TRUE"
+      MEMORY: "25G"
+      USE_AIKAR_FLAGS: "true"
+      OVERRIDES: "world"
+    ports:
+      - "25565:25565"
+      - "24454:24454/udp"  # Voice Chat用のUDPポートを追加
+      - "9090:9090"  # JMXのポートを追加
+      - "8888:8888" #Train Mapのためのポート設定
+    volumes:
+      - "/home/limonene/minecraft-data:/data"
+      - "./entrypoint.sh:/entrypoint.sh"  # エントリポイントスクリプトをマウント
+    entrypoint: ["/entrypoint.sh"]  # エントリポイントスクリプトを実行
+    restart: always

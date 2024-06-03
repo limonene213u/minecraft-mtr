@@ -1,0 +1,1 @@
+docker-compose.yamlの例です、JMXも使えるように書いています。
