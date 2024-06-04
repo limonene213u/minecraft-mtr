@@ -1,4 +1,4 @@
-# Minecraft MTR Updater for GUI
+# Minecraft MTR Updater
 
 このアプリケーションは、MinecraftのリソースパックとモッズをGitHubリポジトリからクローンし、指定されたディレクトリにコピーします。
 
@@ -15,7 +15,9 @@
    - [Git公式サイト](https://git-scm.com/downloads)からGitをダウンロードしてインストールしてください。
 
 2. **Minecraft MTR Updaterの実行**:
-   - `Minecraft MTR Updater`の実行ファイルをダウンロードし、実行してください。
+   - 以下のリンクから`Minecraft MTR Updater`の実行ファイルをダウンロードしてください。
+     - [MTR client updater for windows.exe](https://github.com/limonene213u/minecraft-mtr/blob/main/tools/dist/MTR%20client%20updater%20for%20windows.exe)
+   - ダウンロードしたファイルを実行してください。
 
 ## 使い方
 
