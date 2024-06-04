@@ -21,12 +21,19 @@ def save_minecraft_dir(minecraft_dir):
     with open(CONFIG_FILE, 'w') as f:
         json.dump(config, f)
 
+def handle_remove_readonly(func, path, exc_info):
+    import stat
+    os.chmod(path, stat.S_IWRITE)
+    func(path)
+
 def clone_repo(clone_dir):
     if os.path.exists(clone_dir):
-        shutil.rmtree(clone_dir)
+        shutil.rmtree(clone_dir, onerror=handle_remove_readonly)
     subprocess.run(["git", "clone", REPO_URL, clone_dir], check=True)
 
 def copy_files(src_dir, dest_dir):
+    if not os.path.exists(dest_dir):
+        os.makedirs(dest_dir)
     if os.path.exists(src_dir):
         for item in os.listdir(src_dir):
             s = os.path.join(src_dir, item)
@@ -45,7 +52,7 @@ def main():
         minecraft_dir = input("マインクラフトのインストールディレクトリをフルパスで入力してください: ")
         save_minecraft_dir(minecraft_dir)
 
-    clone_dir = "/tmp/minecraft-mtr"
+    clone_dir = os.path.join(os.getenv('TEMP'), "minecraft-mtr")
     resourcepacks_dir = os.path.join(minecraft_dir, "resourcepacks")
     mods_dir = os.path.join(minecraft_dir, "mods")
 
