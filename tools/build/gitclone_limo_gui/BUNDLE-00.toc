@@ -1,0 +1,3 @@
+([('gitclone_limo_gui',
+   '/Users/limonene/GitHub/minecraft-mtr/tools/dist/gitclone_limo_gui',
+   'EXECUTABLE')],)
