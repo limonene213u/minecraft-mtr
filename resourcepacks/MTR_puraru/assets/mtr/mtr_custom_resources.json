@@ -54,6 +54,12 @@
 			"base_train_type": "class_802_gwr",
 			"texture_id": "mtr:srt_gec/class_802_yukari.png"
 		},
+"class802_JNR": {
+			"name": "Class 802 Ver JNR livery",
+			"color": "222b64",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:srt_gec/class_802_JNR.png"
+		},
 "br423_gtxa": {
 			"name": "br423 GTX livery",
 			"color": "5e8aa1",
