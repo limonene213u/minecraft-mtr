@@ -75,8 +75,8 @@
 "kaiji": {
 			"name": "KAIJI",
 			"color": "5e8aa1",
-			"base_train_type": "class_377",
-			"texture_id": "mtr:jr/br_class_377_kaiji.png"
+			"base_train_type": "class_377_southern",
+			"texture_id": "mtr:jr/class_377_kaiji.png"
 		},
 "class802_nsintercity": {
 			"name": "Class 802 ns intercity livery",
