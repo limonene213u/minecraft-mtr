@@ -72,6 +72,12 @@
 			"base_train_type": "br_423",
 			"texture_id": "mtr:srt_gec/br_423_tsuru.png"
 		},
+"kaiji": {
+			"name": "KAIJI",
+			"color": "5e8aa1",
+			"base_train_type": "class_377",
+			"texture_id": "mtr:jr/br_class_377_kaiji.png"
+		},
 "class802_nsintercity": {
 			"name": "Class 802 ns intercity livery",
 			"color": "0a14ad",
