@@ -60,6 +60,12 @@
 			"base_train_type": "class_802_gwr",
 			"texture_id": "mtr:c802/class_802_jnr.png"
 		},
+"Shinano": {
+			"name": "Tokai Shinano",
+			"color": "222b64",
+			"base_train_type": "class_802_gwr",
+			"texture_id": "mtr:jr/tokai-shinano.png"
+		},
 "br423_gtxa": {
 			"name": "br423 GTX livery",
 			"color": "5e8aa1",
