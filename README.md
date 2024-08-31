@@ -9,6 +9,6 @@ mod、リソパなど置き場(GitHub以外)：<span style="color:red">**廃止*
 <br>
 ~~https://drive.google.com/drive/folders/1Kreu_UhRKIErMX7UYdSyw7XacWS0tyRE?usp=sharing~~<br>
 <br>
-mod置き場は~~GitHubに完全統合しました。~~<br>
+mod置き場は~~GitHubに完全統合しました。~~別サーバーへ移動しました<br>
 <br>
 アクセス情報はDiscordサーバーに書いてあります。
