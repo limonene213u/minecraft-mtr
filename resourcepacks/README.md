@@ -1,1 +1,0 @@
-使う時にはGit cloneしてきて、MTR_announcements_Shizuokaをリソースパックフォルダに入れるだけ（zip化は不要）
