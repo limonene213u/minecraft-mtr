@@ -16,7 +16,7 @@
 
 2. **Minecraft MTR Updaterの実行**:
    - 以下のリンクから`Minecraft MTR Updater`の実行ファイルをダウンロードしてください。
-     - [MTR client updater for windows.exe]()
+     - [Limo鯖用自動ダウンロードツール](https://github.com/limonene213u/minecraft-mtr/raw/refs/heads/main/tools/Windows/Limo%E9%AF%96%E7%94%A8%E8%87%AA%E5%8B%95%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E3%83%84%E3%83%BC%E3%83%AB.exe)
    - ダウンロードしたファイルを実行してください。
 
 ## 使い方
