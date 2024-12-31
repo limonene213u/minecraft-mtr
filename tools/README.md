@@ -4,7 +4,10 @@
 
 ## 必要な依存関係
 
-このアプリケーションでは特段の依存関係はありません、本ソフトだけで動作します。
+このアプリケーションでは特段の依存関係はありません、本ソフトだけで動作します。  
+ ただし、一部NPCの設定はこのソフトを介さずに行うため、別途ダウンロードしてください。   
+ [NPCデータ](https://mtr-sign.limonene-aktk.link/signs/npc-skins/humanoid.zip)  
+ NPCデータは、minecrafインストールディレクトリの中にある”config/easy_npc/skin/humanoid”に入れてください。
 
 ## インストールとセットアップ
 **Minecraft MTR Updaterの実行**:
