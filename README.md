@@ -3,6 +3,7 @@
 <br>
 りも鉄道鯖前提modローダー：<br>
 JAVA版、Fabric（1.19.2）<br>
+起動がうまくいかない場合、**Fabric Loaderのバージョンを更新**してください。<br>
 <br>
 mod、リソパなど置き場(GitHub以外)：<span style="color:red">**廃止**</span><br>
 ~~https://drive.google.com/drive/folders/1dDuT5TI0qv3pW7y2luoW6e-ypYrQXBIr?usp=sharing~~<br>
