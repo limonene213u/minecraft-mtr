@@ -5,11 +5,6 @@
 ## 必要な依存関係
 
 このアプリケーションでは特段の依存関係はありません、本ソフトだけで動作します。  
-**ただし、NPC用データのみこのソフトを介さずにデータ設定を行う必要があるため、別途ダウンロードする必要があります。** 
-     
-[NPC Data](https://mtr-sign.limonene-aktk.link/signs/npc-skins/humanoid.zip)
-
-ダウンロードしたzipファイルを解凍して、中身のpngファイルをminecraftインストールフォルダの中にある、```config/easy_npc/skin/humanoid```にペーストしてください（フォルダがない場合は新規作成してください）。
 
 ## インストールとセットアップ
 **Minecraft MTR Updaterの実行**:
